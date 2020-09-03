@@ -1,4 +1,5 @@
 # JavaScript 201 - Programming Exercises
+Kristin's ReadMe
 
 Programming exercises for a beginning JavaScript programmer.
 
