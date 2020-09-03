@@ -1,5 +1,8 @@
 # JavaScript 201 - Programming Exercises
 Kristin's ReadMe
+This is my PRACTICE change.
+I am practicing git hub. 
+WE TALKIN BOUT PRACTICE.
 
 Programming exercises for a beginning JavaScript programmer.
 
